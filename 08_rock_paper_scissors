@@ -1,0 +1,15 @@
+# Import
+import math
+
+# Initialize variables
+user_wins = 0
+computer_wins = 0
+
+
+# Print instructions
+
+
+# Ask user to enter a value
+
+
+# Determine who won
